@@ -1,0 +1,10 @@
+﻿Soft conflicts of Teaching Time Table 2_2568.fet
+Generated with FET 6.25.0 on 10/17/25 12:55 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
